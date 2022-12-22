@@ -33,6 +33,10 @@ Run the server :rocket:
 npm start
 ```
 
+## Deployment
+
+This app is hosted using [vercel](https://vercel.com/). :stars:
+
 ## Roadmap
 
 - [ ] Fuzzy match search countries
