@@ -17,7 +17,7 @@ const App = () => {
         setCountries(response.data);
         // setSearchedCountries(response.data);
       });
-    }, 2000);
+    }, 200);
 
     // return () => clearTimeout(getData)
   }, []);
